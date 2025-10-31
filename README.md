@@ -1,36 +1,21 @@
-# 🍔 Zen Food Cart  
-
-A modern, user-friendly food delivery e-commerce web app built using **React**, **Vite**, **TypeScript**, and **Tailwind CSS**.  
-Designed and customized by **Amar Singh** to simulate an online food-ordering platform similar to **Zomato** and **Swiggy** — with clean design and simple user flow.
-
----
+# 🍔 Foodie Bites👄
+A full-stack food delivery web app built with **React**, **TypeScript**, **Tailwind CSS**, and **Supabase**.  
+Created and customized by **Amar Singh**, this project simulates a food-ordering experience similar to Zomato and Swiggy with a clean, easy-to-use interface.
 
 ## 🚀 Features
-- Browse delicious food items with beautiful images and categories  
-- See item prices, discounts, GST, and delivery charges dynamically  
-- Apply special card offers and view real-time total updates  
-- Smooth, responsive, mobile-first interface  
-- Designed for simplicity and great user experience  
-
----
+- Browse food items with beautiful images  
+- See dynamic prices, discounts, GST, and delivery charges  
+- Simple, mobile-friendly design  
+- Built with modern, production-ready tools  
 
 ## 🧠 Tech Stack
-| Layer | Technology |
-|-------|-------------|
-| Frontend | React + Vite + TypeScript |
-| Styling | Tailwind CSS + Shadcn UI |
-| Backend | Supabase (for database & authentication) |
-| Deployment | Lovable / Vercel |
-| Version Control | GitHub (Amarsingh-24) |
-
----
+React | Vite | TypeScript | Tailwind CSS | Supabase  
 
 ## ⚙️ Run Locally
-
-To run the project on your computer:
-
 ```bash
-git clone https://github.com/Amarsingh-24/zen-food-cart.git
-cd zen-food-cart
+git clone https://github.com/Amarsingh-24/foodbytes.git
+cd foodbytes
 npm install
 npm run dev
+🌍 Deployment
+Hosted using Lovable.
