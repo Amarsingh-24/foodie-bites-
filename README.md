@@ -17,5 +17,7 @@ git clone https://github.com/Amarsingh-24/foodbytes.git
 cd foodbytes
 npm install
 npm run dev
-🌍 Deployment
-Hosted using Lovable.
+## 🌍 Deployment
+The project is currently hosted using **Lovable** for live preview.
+
+🔗 Live Demo: (https://lovable.dev/projects/d29beada-b0e4-422b-93ab-90aa71167beb)
