@@ -7,7 +7,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="font-bold text-lg mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              FoodHub
+              Foodie bites 💋
             </h3>
             <p className="text-muted-foreground text-sm">
               Delicious food delivered to your doorstep in minutes.
@@ -33,14 +33,14 @@ export const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p className="text-sm text-muted-foreground">
-              Email: support@foodhub.com<br />
+              Email: support@foodiebites.com<br />
               Phone: +1 234 567 8900
             </p>
           </div>
         </div>
         
         <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          © 2025 FoodHub. All rights reserved.
+          © 2025 Foodie bites. All rights reserved.
         </div>
       </div>
     </footer>

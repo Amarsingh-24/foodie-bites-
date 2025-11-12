@@ -108,10 +108,10 @@ const Index = () => {
         <section className="bg-gradient-to-r from-primary/10 via-secondary/10 to-primary/10 py-20 px-4">
           <div className="container mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              Delicious Food <span className="text-primary">Delivered</span> Fast
+              Are you a foodie? Join the club with us 🤩
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Order from the best restaurants and enjoy restaurant-quality meals at home
+              Delicious food from the best restaurants. Fast delivery, great prices, amazing taste.
             </p>
           </div>
         </section>
