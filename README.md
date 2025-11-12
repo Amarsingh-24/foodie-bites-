@@ -1,23 +1,48 @@
-# 🍔 Foodie Bites👄
-A full-stack food delivery web app built with **React**, **TypeScript**, **Tailwind CSS**, and **Supabase**.  
-Created and customized by **Amar Singh**, this project simulates a food-ordering experience similar to Zomato and Swiggy with a clean, easy-to-use interface.
+# 🍴 Foodie Bites – Full Stack Food Delivery Web App
+
+**Foodie Bites** is a modern, full-stack web application for online food ordering and delivery.  
+It allows users to explore restaurants, add items to the cart, and place orders in a clean and user-friendly interface.
+
+---
 
 ## 🚀 Features
-- Browse food items with beautiful images  
-- See dynamic prices, discounts, GST, and delivery charges  
-- Simple, mobile-friendly design  
-- Built with modern, production-ready tools  
+- 🔐 User Authentication and Secure Login  
+- 🍔 Browse Food Items and Restaurant Menu  
+- 🛒 Add to Cart and Checkout  
+- 📦 Order Summary with GST and Discount Logic  
+- 💻 Fully Responsive UI (Mobile + Desktop)
+- 🗃️ Real-time Database using Supabase
 
-## 🧠 Tech Stack
-React | Vite | TypeScript | Tailwind CSS | Supabase  
+---
 
-## ⚙️ Run Locally
+## 🧰 Tech Stack
+**Frontend:** React, TypeScript, Tailwind CSS  
+**Backend & Database:** Supabase  
+**Deployment:** Vercel  
+
+---
+
+## 💡 Project Motivation
+I built this project to strengthen my skills in full-stack web development and learn modern frameworks such as **React**, **TypeScript**, and **Supabase**.  
+It helped me understand the integration of frontend and backend technologies and deployment of a live web app.
+
+---
+
+## 🌐 Live Demo
+👉 (https://lovable.dev/projects/d29beada-b0e4-422b-93ab-90aa71167beb)
+
+---
+
+## 🧑‍💻 How to Run Locally
 ```bash
-git clone https://github.com/Amarsingh-24/foodbytes.git
-cd foodbytes
-npm install
-npm run dev
-## 🌍 Deployment
-The project is currently hosted using **Lovable** for live preview.
+# Clone the repository
+git clone https://github.com/Amarsingh-24/foodie-bites.git
 
-🔗 Live Demo: (https://lovable.dev/projects/d29beada-b0e4-422b-93ab-90aa71167beb)
+# Go to the project directory
+cd foodie-bites
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
