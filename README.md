@@ -29,7 +29,7 @@ It helped me understand the integration of frontend and backend technologies and
 ---
 
 ## 🌐 Live Demo
-👉 (https://lovable.dev/projects/d29beada-b0e4-422b-93ab-90aa71167beb)
+👉 ([foodie-bites.vercel.app)](foodie-bites.vercel.app)
 
 ---
 
