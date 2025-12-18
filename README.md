@@ -30,6 +30,8 @@ It helped me understand the integration of frontend and backend technologies and
 
 ## 🌐 Live Demo
 👉 ([foodie-bites.vercel.app)](foodie-bites.vercel.app)
+👉 [Live Demo](https://foodie-bites.vercel.app)
+
 
 ---
 
