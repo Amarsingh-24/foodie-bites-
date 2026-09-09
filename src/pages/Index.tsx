@@ -113,6 +113,13 @@ const Index = () => {
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Delicious food from the best restaurants. Fast delivery, great prices, amazing taste.
             </p>
+            <a
+              href="/foodrush"
+              className="inline-block text-sm font-semibold text-primary underline underline-offset-4"
+            >
+              Try our new FoodRush experience →
+            </a>
+
           </div>
         </section>
 
