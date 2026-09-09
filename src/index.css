@@ -104,7 +104,46 @@ All colors MUST be HSL.
   }
 }
 
+/* FoodRush scoped theme — charcoal ink, chilli red, turmeric */
 @layer base {
+  .foodrush {
+    --background: 40 30% 97%;
+    --foreground: 220 18% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 18% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 18% 12%;
+
+    --primary: 4 76% 46%;
+    --primary-foreground: 40 40% 98%;
+
+    --secondary: 168 62% 28%;
+    --secondary-foreground: 40 40% 98%;
+
+    --muted: 40 20% 93%;
+    --muted-foreground: 220 10% 40%;
+
+    --accent: 38 92% 50%;
+    --accent-foreground: 220 25% 10%;
+
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 38 18% 87%;
+    --input: 38 18% 87%;
+    --ring: 4 76% 46%;
+
+    --radius: 0.5rem;
+
+    --gradient-primary: linear-gradient(135deg, hsl(4 76% 46%) 0%, hsl(24 88% 52%) 100%);
+    --shadow-soft: 0 1px 2px hsl(220 18% 12% / 0.06), 0 8px 24px -12px hsl(220 18% 12% / 0.18);
+  }
+}
+
+@layer base {
+
   * {
     @apply border-border;
   }
